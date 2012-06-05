@@ -1,0 +1,4 @@
+str -> STR: ab
+str -> STR: abc
+str -> str - str: ab
+start -> str: ab

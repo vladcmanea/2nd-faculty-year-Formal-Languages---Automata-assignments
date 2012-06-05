@@ -1,0 +1,350 @@
+declaratievariabila -> variabila sir detipul sirdecaractere
+declaratie -> declaratievariabila
+declaratii -> declaratie
+declaratievariabila -> variabila sir detipul numeric
+declaratie -> declaratievariabila
+declaratii -> declaratii si declaratie
+declaratievariabila -> variabila sir detipul binar
+declaratie -> declaratievariabila
+declaratii -> declaratii si declaratie
+declaratievariabila -> variabila sir detipul sirdecaractere
+declaratievariabilascurta -> declaratievariabila
+declaratiiintip -> declaratievariabilascurta
+declaratievariabila -> variabila sir detipul numeric
+declaratievariabilascurta -> declaratievariabila
+declaratiiintip -> declaratiiintip si declaratievariabilascurta
+declaratievariabila -> variabila sir detipul sirdecaractere
+declaratievariabilascurta -> declaratievariabila
+declaratiefunctie -> functia sir carenuprimeste careintoarce declaratievariabilascurta
+declaratiiintip -> declaratiiintip si declaratiefunctie
+declaratiefunctie -> carenuprimeste carenuintoarce
+declaratiiintip -> declaratiiintip si declaratiefunctie
+declaratievariabila -> variabila sir detipul sirdecaractere
+declaratievariabilascurta -> declaratievariabila
+declaratiefunctie -> functia sir carenuprimeste careintoarce declaratievariabilascurta
+declaratiiintip -> declaratiiintip si declaratiefunctie
+declaratievariabila -> variabila sir detipul sirdecaractere
+declaratiivariabile -> declaratievariabila
+declaratievariabila -> variabila sir detipul sir careinseamna declaratiivariabile gata
+declaratievariabilascurta -> declaratievariabila
+declaratiiintip -> declaratiiintip si declaratievariabilascurta
+declaratietip -> tipul sir careinseamna declaratiiintip gata
+declaratie -> declaratietip
+declaratii -> declaratii si declaratie
+declaratievariabila -> variabila sir detipul numeric
+declaratiivariabile -> declaratievariabila
+declaratievariabila -> variabila sir detipul sir careinseamna declaratiivariabile gata
+declaratie -> declaratievariabila
+declaratii -> declaratii si declaratie
+declaratievariabila -> variabila sir detipul sirdecaractere
+declaratievariabilascurta -> declaratievariabila
+declaratiivariabilescurte -> declaratievariabilascurta
+declaratievariabila -> variabila sir detipul numeric
+declaratiivariabile -> declaratievariabila
+declaratievariabila -> variabila sir detipul sir careinseamna declaratiivariabile gata
+declaratievariabilascurta -> declaratievariabila
+declaratiivariabilescurte -> declaratiivariabilescurte si declaratievariabilascurta
+declaratievariabila -> variabila sir detipul numeric
+declaratievariabilascurta -> declaratievariabila
+declaratiefunctie -> functia sir careprimeste declaratiivariabilescurte gata careintoarce declaratievariabilascurta
+declaratie -> declaratiefunctie
+declaratii -> declaratii si declaratie
+blocdec -> declar declaratii gata
+en -> sir
+definitievariabila -> variabila sir detipul sirdecaractere cuvaloarea es
+definitie -> definitievariabila
+definitii -> definitie
+en -> numar
+definitievariabila -> variabila sir detipul numeric cuvaloarea en
+definitie -> definitievariabila
+definitii -> definitii si definitie
+eb -> adevarat
+definitievariabila -> variabila sir detipul binar cuvaloarea eb
+definitie -> definitievariabila
+definitii -> definitii si definitie
+var -> sir
+variabila -> var
+citire -> citeste variabila
+rezolvare -> citire
+rezolvari -> rezolvare
+definitiefunctie -> functia sir carenuprimeste declaratiivariabile gata careexecuta rezolvari gata carenuintoarce
+definitiiintip -> definitiefunctie
+en -> numar
+definitievariabila -> variabila sir detipul numeric cuvaloarea en
+definitiiintip -> definitiiintip si definitievariabila
+en -> sir
+definitievariabila -> variabila sir detipul sirdecaractere cuvaloarea es
+definitiiintip -> definitiiintip si definitievariabila
+var -> sir
+variabila -> var
+citire -> citeste variabila
+rezolvare -> citire
+rezolvari -> rezolvare
+definitiefunctie -> functia sir carenuprimeste declaratiivariabile gata careexecuta rezolvari gata carenuintoarce
+definitiiintip -> definitiiintip si definitiefunctie
+var -> sir
+variabila -> var
+exp -> variabila
+scriere -> scrie exp
+rezolvare -> scriere
+rezolvari -> rezolvare
+en -> sir
+definitievariabila -> variabila sir detipul sirdecaractere cuvaloarea es
+definitiefunctie -> functia sir carenuprimeste gata careexecuta rezolvari gata careintoarce definitievariabila
+definitiiintip -> definitiiintip si definitiefunctie
+en -> sir
+definitievariabila -> variabila sir detipul sirdecaractere cuvaloarea es
+definitie -> definitievariabila
+definitii -> definitie
+definitievariabila -> variabila sir detipul sir careinseamna definitii gata
+definitiiintip -> definitiiintip si definitievariabila
+definitietip -> tipul sir careinseamna definitiiintip gata
+definitie -> definitieintip
+definitii -> definitii si definitie
+en -> numar
+definitievariabila -> variabila sir detipul numeric cuvaloarea en
+definitie -> definitievariabila
+definitii -> definitie
+definitievariabila -> variabila sir detipul sir careinseamna definitii gata
+definitie -> definitievariabila
+definitii -> definitii si definitie
+en -> sir
+definitievariabila -> variabila sir detipul sirdecaractere cuvaloarea es
+definitiivariabile -> definitievariabila
+en -> numar
+definitievariabila -> variabila sir detipul numeric cuvaloarea en
+definitie -> definitievariabila
+definitii -> definitie
+definitievariabila -> variabila sir detipul sir careinseamna definitii gata
+definitiifunctie -> definitiivariabile si definitievariabila
+var -> sir
+variabila -> var
+var -> sir
+variabila -> var
+exp -> variabila
+atribuire -> variabila devine exp
+rezolvare -> atribuire
+rezolvari -> rezolvare
+en -> numar
+definitievariabila -> variabila sir detipul numeric cuvaloarea en
+definitiefunctie -> functia sir careprimeste declaratiivariabile gata careexecuta rezolvari gata careintoarce definitievariabila
+definitie -> definitiefunctie
+definitii -> definitii si definitie
+var -> sir
+variabila -> var
+citire -> citeste variabila
+rezolvare -> citire
+rezolvari -> rezolvare
+var -> sir indice
+var -> var rezolutie sir indice
+var -> var rezolutie sir
+variabila -> var
+en -> numar
+exp -> en
+eb -> binar ( exp )
+exp -> eb
+atribuire -> variabila devine exp
+rezolvare -> atribuire
+rezolvari -> rezolvari si rezolvare
+var -> sir
+variabila -> var
+fun -> sir
+apelintorc -> functia fun carenuprimeste careintoarce
+exp -> apelintorc
+atribuire -> variabila devine exp
+rezolvare -> atribuire
+rezolvari -> rezolvari si rezolvare
+fun -> sir
+apelsimplu -> functia fun carenuprimeste carenuintoarce
+rezolvare -> apelsimplu
+rezolvari -> rezolvari si rezolvare
+var -> sir
+variabila -> var
+fun -> sir
+var -> sir
+variabila -> var
+exp -> variabila
+elementfunctie -> exp
+listafunctie -> elementfunctie
+apelintorc -> functia fun careprimeste listafunctie gata careintoarce
+exp -> apelintorc
+atribuire -> variabila devine exp
+rezolvare -> atribuire
+rezolvari -> rezolvari si rezolvare
+en -> numar
+definitievariabila -> variabila sir detipul numeric cuvaloarea en
+definitiefunctie -> functia sir carenuprimeste gata careexecuta rezolvari gata careintoarce definitievariabila
+definitie -> definitiefunctie
+definitii -> definitii si definitie
+blocdef -> definesc definitii gata
+var -> sir
+variabila -> var
+citire -> citeste variabila
+rezolvare -> citire
+rezolvari -> rezolvare
+var -> sir
+variabila -> var
+citire -> citeste variabila
+rezolvare -> citire
+rezolvari -> rezolvari si rezolvare
+var -> sir
+variabila -> var
+en -> sir
+en -> sir
+es -> es + es
+exp -> es
+atribuire -> variabila devine exp
+rezolvare -> atribuire
+rezolvari -> rezolvari si rezolvare
+var -> sir
+variabila -> var
+en -> sir
+en -> | es |
+exp -> en
+atribuire -> variabila devine exp
+rezolvare -> atribuire
+rezolvari -> rezolvari si rezolvare
+var -> sir
+variabila -> var
+var -> sir
+variabila -> var
+exp -> variabila
+es -> ( exp )
+en -> numar
+en -> numar
+en -> numar
+en -> en /mod/ en
+en -> en - en
+exp -> en
+es -> ( exp )
+es -> es + es
+eb -> adevarat
+eb -> fals
+var -> sir
+variabila -> var
+exp -> variabila
+eb -> binar ( exp )
+eb -> eb & eb
+eb -> eb | eb
+exp -> eb
+en -> numeric ( exp )
+exp -> en
+es -> ( exp )
+es -> es + es
+exp -> es
+eb -> binar ( exp )
+exp -> eb
+es -> ( exp )
+exp -> es
+atribuire -> variabila devine exp
+rezolvare -> atribuire
+rezolvari -> rezolvari si rezolvare
+eb -> fals
+en -> numar
+en -> numar
+eb -> en < en
+var -> sir
+variabila -> var
+exp -> variabila
+en -> numeric ( exp )
+var -> sir
+variabila -> var
+exp -> variabila
+en -> numeric ( exp )
+eb -> en < en
+eb -> eb & eb
+eb -> eb | eb
+var -> sir
+variabila -> var
+exp -> variabila
+eb -> binar ( exp )
+var -> sir
+variabila -> var
+citire -> citeste variabila
+rezolvare -> citire
+rezolvari -> rezolvare
+var -> sir
+variabila -> var
+en -> numar
+exp -> en
+atribuire -> variabila devine exp
+rezolvare -> atribuire
+rezolvari -> rezolvari si rezolvare
+var -> sir
+variabila -> var
+exp -> variabila
+scriere -> scrie exp
+rezolvare -> scriere
+rezolvari -> rezolvare
+test -> daca eb atunci careexecuta rezolvari gata altfel careexecuta rezolvari gata 
+rezolvare -> test
+rezolvari -> rezolvare
+var -> sir
+variabila -> var
+citire -> citeste variabila
+rezolvare -> citire
+rezolvari -> rezolvari si rezolvare
+bucla -> cattimp eb careexecuta rezolvari gata
+rezolvare -> bucla
+rezolvari -> rezolvari si rezolvare
+var -> sir
+variabila -> var
+fun -> sir
+en -> numar
+exp -> en
+es -> ( exp )
+exp -> es
+en -> numeric ( exp )
+exp -> en
+eb -> binar ( exp )
+exp -> eb
+elementfunctie -> exp
+listafunctie -> elementfunctie
+en -> numar
+en -> numar
+en -> en * en
+en -> numar
+en -> - en
+en -> ( en )
+en -> en * en
+en -> - en
+exp -> en
+es -> ( exp )
+exp -> es
+elementfunctie -> exp
+listafunctie -> listafunctie si elementfunctie
+fun -> sir
+apelintorc -> functia fun carenuprimeste careintoarce
+exp -> apelintorc
+elementfunctie -> exp
+listafunctie -> listafunctie si elementfunctie
+apelintorc -> functia fun careprimeste listafunctie gata careintoarce
+exp -> apelintorc
+atribuire -> variabila devine exp
+rezolvare -> atribuire
+rezolvari -> rezolvari si rezolvare
+fun -> sir
+apelsimplu -> functia fun carenuprimeste carenuintoarce
+rezolvare -> apelsimplu
+rezolvari -> rezolvari si rezolvare
+var -> sir
+variabila -> var
+fun -> sir
+var -> sir
+variabila -> var
+exp -> variabila
+elementfunctie -> exp
+listafunctie -> elementfunctie
+var -> sir
+variabila -> var
+exp -> variabila
+elementfunctie -> exp
+listafunctie -> listafunctie si elementfunctie
+apelintorc -> functia fun careprimeste listafunctie gata careintoarce
+exp -> apelintorc
+atribuire -> variabila devine exp
+rezolvare -> atribuire
+rezolvari -> rezolvari si rezolvare
+blocrez -> rezolv rezolvari gata
+corp -> blocdec blocdef blocrez
+program -> salut corp papa

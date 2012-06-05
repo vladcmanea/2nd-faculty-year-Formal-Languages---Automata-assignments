@@ -1,0 +1,156 @@
+salut
+	declar
+		variabila "student" de tipul sir de caractere,
+		variabila "grupa" care are tipul numeric si
+		variabila "este studentul in grupa?" de tip binar si inca
+		tipul "facultate" care include
+			100 de variabile "profi" de tip sir de caractere,
+			3000 de variabile fixate "studenti" de tip numeric si
+			functia "salut" care nu primeste si intoarce variabila "salut" de tip sir de caractere,
+			functia "nimic" care nu primeste nimic si care nu intoarce nimic,
+			functia "nada" care nu primeste parametri si care intoarce variabila "salut" de tip sir de caractere,
+			variabila constanta "gr" de tip "grupa" care include
+				variabila fixa "studenti" de tip sir de caractere 
+			gata
+		gata,
+		variabila "infoiasi" de tipul "facultate" care include
+			variabila "salut" de tipul numeric
+		gata,
+		functia "hello" care primeste 
+			variabila "salut" de tipul sir de caractere,
+			variabila "infoiasi" de tipul "facultate" care include
+				variabila "salut" de tipul numeric 
+			gata
+		gata si care intoarce variabila "hello" de tip numeric
+	gata
+	definesc
+
+		variabila "student" de tipul sir de caractere care are valoarea "salut",
+		variabila "PI" care are tipul numeric si valoare 3.141592654,
+		variabila "este studentul in grupa?" de tip binar cu valoarea TRUE si inca
+		tipul "facultate" care include
+			functia "nimic" care nu primeste nimic care executa 
+				citeste variabila "a"
+			gata care nu intoarce nimic,
+			3000 de variabile fixate "studenti" de tip numeric si cu valorile 2.14,
+			100 de variabile "profi" de tip sir de caractere cu valorile "nu se stie",
+			functia "nimic" care nu primeste nimic care executa citeste variabila "b" gata care nu intoarce nimic,
+			functia "pot sa scriu si intrebari? da!" care nu primeste parametri si care executa 
+				<< variabila "q" 
+			gata si care intoarce variabila "salut" de tip sir de caractere cu valoarea "hello",
+			variabila constanta "gr" de tip "grupa" care include
+				variabila fixa "studenti" de tip sir de caractere cu valoarea "salut"
+			gata
+		gata,
+		variabila "infoiasi" de tipul "facultate" care include
+			variabila "salut" de tipul numeric de valoare 1234
+		gata,
+		functia "hello" care primeste 
+			variabila "salut" de tipul sir de caractere cu valoarea "salut",
+			variabila "infoiasi" de tipul "facultate" care include
+				variabila "salut" de tipul numeric cu valoare 3.13f
+			gata
+		gata care executa 
+			variabila "a" <= variabila "b" 
+		gata care intoarce variabila "hello" de tip numeric de valoare 134,
+		functia "salut" care nu primeste si care executa 
+			citeste variabila "a",
+			variabila "a"[3]::"b"[5]=>"c" <= binar(124),
+			variabila "a" <= functia "hello" care nu primeste care intoarce,
+			functia "h" care nu primeste nimic si nu intoarce nimic, 
+			variabila "f" devine functia "hello" care primeste 
+				variabila "a" 
+			gata care intoarce  
+		gata care intoarce variabila "salut" de tipul numeric si valoarea 13
+	gata
+
+@
+
+
+				citeste variabila "a",
+				variabila "c" <= binar(124),
+				variabila "f" devine functia "hello" care primeste 
+					variabila "a" 
+				gata care intoarce  
+
+
+
+			functia 
+			"salut" 
+			care nu primeste 
+			executa 
+				citeste variabila "a",
+				variabila "c" <= binar(124),
+				variabila "f" devine functia "salut"::"salu3"=>"hello" care primeste 
+					variabila "a" 
+				gata care intoarce  
+			gata care nu intoarce,
+
+
+@
+
+
+	rezolv
+
+		citeste variabila "a",
+		>> variabila "b",
+
+		variabila "c" devine "a" +   "    b",
+		variabila "c" devine |"salut"|,
+		variabila "c" devine sir (binar( sir (variabila "d" ) + sir (584390+678-10+5%3) + sir ( numeric ( TRUE | FALSE & binar ( variabila "da" ) ) ) )   ),
+
+
+		cat timp FALS | 32 < 100 & numeric(variabila "c") < numeric(variabila "d") executa
+		
+		    daca binar(variabila "salut") atunci executa
+			citeste variabila "c" si inca
+			variabila "fggfghdfk" devine 17
+		    gata altfel executa
+			scrie variabila "d"
+		    gata,
+		
+		    citeste variabila "c"
+		gata,
+		
+		variabila "d" devine functia "salut" care primeste
+			binar ( numeric ( sir ( 12 ) ) ),
+			sir ( -32.654 * 15 * (-3) ),
+			functia "gjfklgdfkl" care nu primeste care intoarce
+		gata si intoarce,
+		
+		functie "farareturn" care nu are parametri si care nu intoarce,
+
+		variabila "d" devine functia "g" care primeste parametrii 
+			variabila "salut", 
+			variabila "hello"
+		gata
+		care intoarce
+
+
+	gata
+papa
+
+@
+
+
+				citeste variabila "a",
+				variabila "c" <= binar(124),
+				variabila "f" devine functia "hello" care primeste 
+					variabila "a" 
+				gata care intoarce  
+
+
+
+			functia 
+			"salut" 
+			care nu primeste 
+			executa 
+				citeste variabila "a",
+				variabila "c" <= binar(124),
+				variabila "f" devine functia "hello" care primeste 
+					variabila "a" 
+				gata care intoarce  
+			gata care nu intoarce,
+
+
+@
